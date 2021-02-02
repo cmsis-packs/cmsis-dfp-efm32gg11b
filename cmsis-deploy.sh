@@ -1,9 +1,9 @@
 #!/bin/bash
 
-name=cmsis-dfp-template
-vendor=template
-version=0.0
-source_url=
+name=cmsis-dfp-efm32gg11b
+vendor=SiliconLabs
+version=2.7.0
+source_url=https://www.silabs.com/documents/public/cmsis-packs/$vendor.GeckoPlatform_EFM32GG11B_DFP.$version.pack
 
 build_dir='cmsis_build'
 deploy_dir='cmsis_deploy'
