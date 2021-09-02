@@ -4,7 +4,7 @@
  *        for EFM32GG11B840F1024GM64
  *******************************************************************************
  * # License
- * <b>Copyright 2020 Silicon Laboratories Inc. www.silabs.com</b>
+ * <b>Copyright 2021 Silicon Laboratories Inc. www.silabs.com</b>
  *******************************************************************************
  *
  * SPDX-License-Identifier: Zlib
@@ -1920,4 +1920,5 @@ typedef enum IRQn{
 #ifdef __cplusplus
 }
 #endif
+
 #endif /* EFM32GG11B840F1024GM64_H */
